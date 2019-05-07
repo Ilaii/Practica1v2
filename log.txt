@@ -1,0 +1,38 @@
+commit 5a7164915bf318d25d00da5be60642ab6db51e7a
+Author: Werner Kollros <werner97@hotmail.es>
+Date:   Tue May 7 01:44:59 2019 -0400
+
+    Se creo el archivo index.html y se le agrego contenido
+
+commit 4c6f8eb9d811d02c18568998403fad8dd4fe1008
+Author: Werner Kollros <werner97@hotmail.es>
+Date:   Tue May 7 01:43:51 2019 -0400
+
+    Se realizaron los siguientes cambios:
+    
+    Se creo la carpeta assets
+    se movieron las carpetas img, css y js dentro de assets
+
+commit 400c070379969977b52fb8ad7660abf65a6b26f0
+Author: Werner Kollros <werner97@hotmail.es>
+Date:   Tue May 7 01:40:06 2019 -0400
+
+    Se cambio de nombre imagenes a img y contiene dos imagenes
+
+commit 66fa88e4fc64d76b117708d4381916478edbbcff
+Author: Werner Kollros <werner97@hotmail.es>
+Date:   Tue May 7 01:35:29 2019 -0400
+
+    Se crearon las carpetas imagenes, js, css y creamos styles.css y main.js
+
+commit 0a45e11420dd962721e9fb9dcf04199b2e6916ee
+Author: Werner Kollros <werner97@hotmail.es>
+Date:   Tue May 7 01:31:03 2019 -0400
+
+    Commit Inicial
+
+commit 59761fecdc6d6f2f9ce4e47106cd627d4a314af0
+Author: Ilaii <48467164+Ilaii@users.noreply.github.com>
+Date:   Tue May 7 01:27:29 2019 -0400
+
+    Initial commit
